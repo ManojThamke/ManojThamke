@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Engineer&center=true&width=500&height=45">
 # Hi 👋 I'm Manoj Thamke
 
 🎓 Final Year B.E. Information Technology Student (Mumbai University)
@@ -98,9 +99,8 @@ Technologies: Python, TensorFlow
 
 ## 📝 Notes App
 
-Simple full stack notes application with authentication.
-
-Technologies: Node.js, Express, MongoDB
+Decentralized Notes Management Application built using Blockchain and Web3 technologies for secure and immutable note storage.
+Technologies: Node.js, Express, MongoDB, Blockchain
 
 ---
 
@@ -109,7 +109,11 @@ Technologies: Node.js, Express, MongoDB
 ![Snake animation](https://github.com/ManojThamke/ManojThamke/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 # 📫 Connect With Me
 
 LinkedIn

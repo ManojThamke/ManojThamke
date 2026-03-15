@@ -1,13 +1,24 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Engineer&center=true&width=500&height=45">
-# Hi 👋 I'm Manoj Thamke
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Engineer;Open+Source+Learner&center=true&width=550&height=45">
+</p>
 
-🎓 Final Year B.E. Information Technology Student (Mumbai University)
-🤖 AI & Data Science Enthusiast
-🛡️ Cybersecurity & Network Security Learner
+<h1 align="center">Hi 👋 I'm Manoj Thamke</h1>
+
+<p align="center">
+🎓 Final Year <b>B.E. Information Technology Student</b> (Mumbai University)<br>
+🤖 AI & Data Science Enthusiast<br>
+🛡️ Cybersecurity & Network Security Learner<br>
 💻 Full Stack MERN Developer
+</p>
 
-I enjoy building **AI systems, cybersecurity tools, and full stack web applications**.
-Currently working on an **ML-Based Network Intrusion Detection System (NIDS)** using Python and MERN stack.
+<p align="center">
+I enjoy building <b>AI systems, cybersecurity tools, and full stack web applications</b>.<br>
+Currently developing an <b>ML-Based Network Intrusion Detection System (NIDS)</b> using Python and the MERN stack.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ManojThamke&label=Profile%20Views&color=blue&style=flat">
+</p>
 
 ---
 
@@ -16,58 +27,98 @@ Currently working on an **ML-Based Network Intrusion Detection System (NIDS)** u
 🔹 ML Based Network Intrusion Detection System
 🔹 AI Image Caption Generator
 🔹 MERN Stack Full-Stack Applications
-🔹 Real-time Packet Analysis using Scapy
+🔹 Real-Time Packet Analysis using Scapy
 🔹 Machine Learning Model Optimization
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Skills & Technologies
 
-### 💻 Programming
+## 💻 Programming
 
-Python • JavaScript • HTML • CSS
+Python • JavaScript • HTML • CSS • Solidity
 
-### 🌐 Web Development
+## 🌐 Web Development
 
-React.js
-Node.js
-Express.js
+React.js • Node.js • Express.js • REST APIs • JWT Authentication
 
-### 🗄 Databases
+## 🗄 Databases
 
-MongoDB
-MySQL
+MongoDB • MySQL
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
-Scikit-Learn
-TensorFlow
-Pandas
-NumPy
+Scikit-Learn • TensorFlow • Pandas • NumPy • Model Training
 
-### 🔐 Cybersecurity Tools
+## 🔐 Cybersecurity
 
-Scapy
-Network Packet Analysis
-Intrusion Detection Systems
+Scapy • Packet Analysis • Network Intrusion Detection Systems
 
-### ⚙ Tools & Platforms
+## ⛓ Blockchain / Web3
 
-Git
-GitHub
-VS Code
-Postman
-Figma
+Solidity • Web3.js • Smart Contracts • Decentralized Apps
+
+## ⚙ Tools
+
+Git • GitHub • VS Code • Postman • Figma
+
+---
+
+# 🧰 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb,html,css,git,github,vscode,tensorflow,solidity"/>
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![Manoj GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojThamke\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojThamke\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManojThamke&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ManojThamke\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojThamke&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ManojThamke&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManojThamke&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojThamke&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://github.com/ManojThamke/ManojThamke/blob/output/github-contribution-grid-snake.svg">
+
+</p>
 
 ---
 
@@ -75,17 +126,17 @@ Figma
 
 ## 🛡 ML Based Network Intrusion Detection System
 
-Machine Learning based cybersecurity system that detects malicious network traffic using real-time packet analysis and multiple ML algorithms.
+Machine Learning based cybersecurity system that detects malicious network traffic using real-time packet analysis.
 
-Technologies: Python, Scapy, Machine Learning, MERN
+**Technologies:** Python • Scapy • Machine Learning • MERN Stack
 
 ---
 
 ## 📋 Issue Tracker (Jira-Like System)
 
-Full stack project management tool to track issues, tasks and bugs.
+Full-stack project management tool used to track issues, tasks and bugs.
 
-Technologies: MERN Stack
+**Technologies:** MERN Stack
 
 ---
 
@@ -93,35 +144,31 @@ Technologies: MERN Stack
 
 AI system that generates captions for images using deep learning models.
 
-Technologies: Python, TensorFlow
+**Technologies:** Python • TensorFlow
 
 ---
 
-## 📝 Notes App
+## 📝 Blockchain Notes App
 
-Decentralized Notes Management Application built using Blockchain and Web3 technologies for secure and immutable note storage.
-Technologies: Node.js, Express, MongoDB, Blockchain
+Decentralized notes management application built with blockchain and Web3 technologies.
 
----
-
-# 📈 Contribution Graph
-
-![Snake animation](https://github.com/ManojThamke/ManojThamke/blob/output/github-contribution-grid-snake.svg)
-![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojThamke&theme=tokyo-night)
+**Technologies:** Solidity • Web3.js • Node.js • MongoDB
 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-# 📫 Connect With Me
 
-LinkedIn
-https://linkedin.com/in/manoj-thamke
+# 🌐 Connect With Me
 
-GitHub
-https://github.com/ManojThamke
+<p align="center">
+
+<a href="https://linkedin.com/in/manoj-thamke">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/ManojThamke">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 

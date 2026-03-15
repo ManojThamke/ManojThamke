@@ -117,7 +117,6 @@ Git • GitHub • VS Code • Postman • Figma
 <p align="center">
 <img src="https://raw.githubusercontent.com/ManojThamke/ManojThamke/output/github-contribution-grid-snake.svg">
 </p>
----
 
 # 📌 Featured Projects
 

@@ -95,9 +95,8 @@ Git • GitHub • VS Code • Postman • Figma
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManojThamke"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ManojThamke&theme=darkhub&no-frame=true&margin-w=10"/>
 </p>
-
 ---
 
 # 📈 Contribution Activity

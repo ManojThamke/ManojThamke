@@ -112,14 +112,11 @@ Git • GitHub • VS Code • Postman • Figma
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-
-<img src="https://github.com/ManojThamke/ManojThamke/blob/output/github-contribution-grid-snake.svg">
-
+<img src="https://raw.githubusercontent.com/ManojThamke/ManojThamke/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 # 📌 Featured Projects

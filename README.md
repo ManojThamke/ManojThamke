@@ -107,6 +107,7 @@ Technologies: Node.js, Express, MongoDB, Blockchain
 # 📈 Contribution Graph
 
 ![Snake animation](https://github.com/ManojThamke/ManojThamke/blob/output/github-contribution-grid-snake.svg)
+![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojThamke&theme=tokyo-night)
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)

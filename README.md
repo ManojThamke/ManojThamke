@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Engineer;Open+Source+Learner&center=true&width=550&height=45">
 </p>
 

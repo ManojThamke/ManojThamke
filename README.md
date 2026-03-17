@@ -1,4 +1,3 @@
-<img width="1440" height="4040" alt="image" src="https://github.com/user-attachments/assets/451be35b-f763-4c80-bd18-148a47195d31" /><img width="1440" height="4040" alt="image" src="https://github.com/user-attachments/assets/ebc397bb-0a76-4f71-bec1-5e83c6d0a095" /><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Engineer;Open+Source+Learner&center=true&width=550&height=45">
 </p>
 

@@ -14,87 +14,76 @@
 
 ## 01 / About
 
-I’m Manoj, an Information Technology graduate from Mumbai University. I turn complex ideas into useful, dependable software—working across product interfaces, backend systems, and applied machine learning. I enjoy the full path from shaping an idea to designing its APIs, handling edge cases, and refining the details people use every day.
+I’m Manoj, an Information Technology graduate from Mumbai University. I turn complex ideas into useful, dependable software—working across product interfaces, backend systems, and applied machine learning.
 
 **Currently:** AI, Full-Stack & Trading Systems Developer at **Web Helix Pvt Ltd** *(Oct 2026–Present)*, building across AI/ML, agentic workflows, algorithmic-trading tools, and full-stack applications.
 
-## 02 / Featured · Agentic systems
+## 02 / Main attraction · Live Trading Engine
+
+<p align="center">
+  <img src="assets/projects/trading-engine.gif" alt="Animated live trading engine workflow: market data to trading bots to live execution; private repository" width="100%">
+</p>
+
+<p align="center"><strong>LIVE TRADING SYSTEM · PRIVATE REPOSITORY</strong><br>A live trading system that automates trades using bots.</p>
+
+## 03 / Featured · Agentic systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✳ Agentic OS</h3>
-      <p><strong>PERSONAL AGENT WORKSPACE · IN PROGRESS</strong></p>
-      <p>A personal agentic workspace built around Hermes Agent on a VPS with Telegram. It brings together a persistent agent profile and reusable skills for AI learning, coding, trading study, and daily workflows—with a longer-term goal of automating pre-market briefs and trading journals.</p>
-      <sub>Hermes Agent · Telegram · Agent skills · Workflow automation</sub><br><br>
-      <a href="https://github.com/ManojThamke/agentic-os">Explore the Agentic OS repository ↗</a>
+      <a href="https://github.com/ManojThamke/agentic-os"><img src="assets/projects/agentic-os.gif" alt="Animated Agentic OS project card" width="100%"></a>
+      <p>A personal agentic workspace built around Hermes Agent on a VPS with Telegram. It brings together a persistent agent profile and reusable skills for AI learning, coding, trading study, and daily workflows, with pre-market briefs and trading journals as goals.</p>
+      <p><a href="https://github.com/ManojThamke/agentic-os">View Agentic OS ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ AEGIS AI</h3>
-      <p><strong>MISSION INTELLIGENCE WORKBENCH · PHASE 1 DEMO</strong></p>
-      <p>A structured mission workflow that records a mission, queues three traceable local steps, and labels its output as illustrative. This phase does not browse the web, call a model, or execute external actions.</p>
-      <sub>Next.js · TypeScript · PostgreSQL / pgvector · Redis · BullMQ · Drizzle</sub><br><br>
-      <a href="https://github.com/ManojThamke/AGEIS">Explore AEGIS AI ↗</a> ·
-      <a href="https://github.com/ManojThamke/AGEIS/blob/main/ARCHITECTURE.md">Architecture ↗</a>
+      <a href="https://github.com/ManojThamke/AGEIS"><img src="assets/projects/aegis-ai.gif" alt="Animated AEGIS AI project card" width="100%"></a>
+      <p>A mission intelligence workbench. Phase 1 records a mission, queues three traceable local steps, and labels output as illustrative. It does not browse the web, call a model, or execute external actions.</p>
+      <p><a href="https://github.com/ManojThamke/AGEIS">View AEGIS AI ↗</a> · <a href="https://github.com/ManojThamke/AGEIS/blob/main/ARCHITECTURE.md">Architecture ↗</a></p>
     </td>
   </tr>
 </table>
 
-## 03 / Selected work
+## 04 / Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · Network Intrusion Detection</h3>
-      <p><strong>RESEARCH · CYBERSECURITY</strong></p>
-      <p>A confidence-aware hybrid ML engine with a live monitoring dashboard, built to make network threats easier to see and act on.</p>
-      <p><strong>99.81% model accuracy</strong><br>Published at IEEE ACROSET 2026.</p>
-      <sub>Python · XGBoost · MERN · Machine Learning</sub><br><br>
-      <a href="https://github.com/ManojThamke/ML_NIDS">View project repository ↗</a>
+      <a href="https://github.com/ManojThamke/ML_NIDS"><img src="assets/projects/network-intrusion.gif" alt="Animated network intrusion detection project card" width="100%"></a>
+      <p>A confidence-aware hybrid ML engine with a live monitoring dashboard. Reported **99.81% accuracy**; published at IEEE ACROSET 2026.</p>
+      <p><a href="https://github.com/ManojThamke/ML_NIDS">View NIDS project ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · DevLearn</h3>
-      <p><strong>PRODUCT · AI LEARNING</strong></p>
-      <p>An AI-powered coding platform with structured learning paths, hands-on projects, and a containerized code-evaluation pipeline.</p>
-      <p><strong>88 lessons built</strong></p>
-      <sub>React · Gemini API · Redis · Docker</sub><br><br>
-      <a href="https://github.com/ManojThamke/DevLearn">View project repository ↗</a>
+      <a href="https://github.com/ManojThamke/DevLearn"><img src="assets/projects/devlearn.gif" alt="Animated DevLearn project card" width="100%"></a>
+      <p>An AI-powered coding platform with structured learning paths, hands-on projects, and containerized code evaluation. **88 lessons built.**</p>
+      <p><a href="https://github.com/ManojThamke/DevLearn">View DevLearn ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Legal Document Research Assistant</h3>
-      <p><strong>AI · DOCUMENT RETRIEVAL</strong></p>
-      <p>A Python RAG prototype that indexes Supreme Court judgments, retrieves relevant passages with Qdrant, and returns document-grounded answers with page references.</p>
-      <sub>Python · Qdrant · Embeddings · OpenRouter</sub><br><br>
-      <a href="https://github.com/ManojThamke/legal-rag">View project repository ↗</a>
+      <a href="https://github.com/ManojThamke/legal-rag"><img src="assets/projects/legal-research.gif" alt="Animated legal document research project card" width="100%"></a>
+      <p>A Python RAG prototype that indexes Supreme Court judgments, retrieves passages with Qdrant, and returns document-grounded answers with page references.</p>
+      <p><a href="https://github.com/ManojThamke/legal-rag">View Legal RAG ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · MedGenix</h3>
-      <p><strong>ML · FULL-STACK PROTOTYPE</strong></p>
-      <p>A research and education prototype connecting voice-feature classification to a FastAPI service, React interface, MongoDB persistence, and generated reports.</p>
-      <p><strong>22 voice features</strong></p>
-      <sub>Python · scikit-learn · FastAPI · React · MongoDB</sub><br><br>
-      <a href="https://github.com/ManojThamke/MedGenix">View project repository ↗</a>
+      <a href="https://github.com/ManojThamke/MedGenix"><img src="assets/projects/medgenix.gif" alt="Animated MedGenix project card" width="100%"></a>
+      <p>A research and education prototype connecting voice-feature classification to FastAPI, a React interface, MongoDB persistence, and generated reports.</p>
+      <p><a href="https://github.com/ManojThamke/MedGenix">View MedGenix ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>05 · Distributed Job Scheduler</h3>
-      <p><strong>SYSTEMS · IN PROGRESS</strong></p>
-      <p>A durable backend for queuing, retrying, and distributing background jobs across workers—built for the work that happens behind the UI.</p>
-      <sub>Node.js · Redis · PostgreSQL · Docker · BullMQ</sub><br><br>
-      <a href="https://github.com/ManojThamke/distributed-job-scheduler">View project repository ↗</a>
+      <a href="https://github.com/ManojThamke/distributed-job-scheduler"><img src="assets/projects/job-scheduler.gif" alt="Animated distributed job scheduler project card" width="100%"></a>
+      <p>A backend system for queuing, retrying, and distributing background jobs across workers.</p>
+      <p><a href="https://github.com/ManojThamke/distributed-job-scheduler">View job scheduler ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>More work, in context</h3>
-      <p>See the product stories, interface, and project details on my portfolio.</p>
-      <a href="https://www.manojthamke.me/#work"><strong>Explore selected work ↗</strong></a>
+      <p align="center"><strong>More work, in context</strong><br>Visit my portfolio for the full project stories and details.</p>
+      <p align="center"><a href="https://www.manojthamke.me/#work">Explore all selected work ↗</a></p>
     </td>
   </tr>
 </table>
 
-## 04 / Experience
+## 05 / Experience
 
 ### AI, Full-Stack & Trading Systems Developer · Web Helix Pvt Ltd
 *Oct 2026–Present*
@@ -116,7 +105,7 @@ Built a YouTube-inspired training product with React and JavaScript, and develop
 
 Created a WordPress site with custom page layouts, motion, and an e-commerce cart with payment integration.
 
-## 05 / Toolkit
+## 06 / Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,redis,postgres,docker,git,github&theme=dark" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, MongoDB, Redis, PostgreSQL, Docker, Git and GitHub">
@@ -124,7 +113,7 @@ Created a WordPress site with custom page layouts, motion, and an e-commerce car
 
 <p align="center"><sub>Machine Learning · REST APIs · JWT / RBAC · Agentic Workflows · Trading Systems</sub></p>
 
-## 06 / Education & certifications
+## 07 / Education & certifications
 
 - **B.E. Information Technology** · Alamuri Ratnamala Institute of Engineering & Technology · Mumbai University · 2023–2026 · **CGPA 7.98**
 - **Diploma, Information Technology** · Vidyalankar Polytechnic, Mumbai · 2020–2023

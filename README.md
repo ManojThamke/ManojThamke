@@ -1,99 +1,122 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Manoj Thamke | Full Stack Developer" width="100%">
+  <img src="assets/profile-banner.svg" alt="Manoj Thamke — AI, Full Stack and Trading Systems Developer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManojThamke"><img src="https://img.shields.io/badge/GitHub-ManojThamke-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20ML-0f766e?style=flat-square" alt="Focus: MERN and machine learning">
-  <img src="https://img.shields.io/badge/Research-IEEE%20ACROSET-334155?style=flat-square" alt="IEEE ACROSET author">
+  <a href="https://www.manojthamke.me/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-55e6c1?style=for-the-badge&logo=googlechrome&logoColor=08111f" alt="Explore my portfolio"></a>
+  <a href="https://github.com/ManojThamke"><img src="https://img.shields.io/badge/GITHUB-Projects-151b2b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+  <a href="https://www.linkedin.com/in/manoj-thamke/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
-  <em>Full Stack Developer · MERN · Applied Machine Learning</em><br>
-  I build thoughtful web products, dependable backend systems, and practical AI experiences.
-</p>
+<p align="center"><sub>MUMBAI, INDIA&nbsp; · &nbsp;AI / ML&nbsp; · &nbsp;FULL STACK&nbsp; · &nbsp;SYSTEMS</sub></p>
 
 ---
 
-## ✦ About
+## 01 / About
 
-Software developer with hands-on full stack internship experience across APIs, authentication, admin workflows, and AI-powered products. I also co-authored an IEEE ACROSET 2026 paper on machine learning for network intrusion detection, reporting **99.81% accuracy**.
+I’m Manoj, an Information Technology graduate from Mumbai University. I turn complex ideas into useful, dependable software—working across product interfaces, backend systems, and applied machine learning. I enjoy the full path from shaping an idea to designing its APIs, handling edge cases, and refining the details people use every day.
 
-| | |
-|:--|:--|
-| 🎓 **Education** | B.E. Information Technology · Mumbai University · CGPA 7.98/10 |
-| 💼 **Experience** | Full Stack Developer Intern · IISPPR · 568 hours, 3 projects |
-| 🔭 **Learning** | Docker, CI/CD, AWS, and production-minded backend engineering |
-| 💬 **Topics** | MERN, REST API design, and ML-based intrusion detection |
+**Currently:** AI, Full-Stack & Trading Systems Developer at **Web Helix Pvt Ltd** *(Oct 2026–Present)*, building across AI/ML, agentic workflows, algorithmic-trading tools, and full-stack applications.
 
-## ⚙️ Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,redis,postgres,docker,git,github,linux&theme=dark" alt="JavaScript, TypeScript, Python, React, Node.js, Express, MongoDB, Redis, PostgreSQL, Docker, Git, GitHub, Linux">
-</p>
-
-<p align="center"><sub>Also worked with scikit-learn · XGBoost · LightGBM · BullMQ · Tailwind CSS · Framer Motion · JWT · Zod · Gemini API · Vercel</sub></p>
-
-## 🚀 Selected work
+## 02 / Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Network Intrusion Detection</h3>
-      <p>Machine learning research and a real-time MERN dashboard for monitoring network traffic and detecting multiple attack classes.</p>
-      <p><strong>99.81% accuracy</strong> · <strong>82.72% F1</strong><br>Benchmarked 9 models on CICIDS2018 with 2M+ packets; the confidence-aware hybrid engine improved ensemble precision by 4.2%.</p>
-      <sub>Python · scikit-learn · XGBoost · LightGBM · React · Node.js · MongoDB</sub><br><br>
-      <a href="https://github.com/ManojThamke">IEEE ACROSET 2026 · Explore my repositories ↗</a>
+      <h3>01 · Network Intrusion Detection System</h3>
+      <p><strong>RESEARCH · CYBERSECURITY</strong></p>
+      <p>A confidence-aware hybrid machine-learning engine with a live monitoring dashboard, built to make network threats easier to see and act on.</p>
+      <p><strong>99.81% model accuracy</strong><br>Published at IEEE ACROSET 2026.</p>
+      <sub>Python · XGBoost · MERN · Machine Learning</sub><br><br>
+      <a href="https://www.manojthamke.me/#work">Project details on my portfolio ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 DevLearn</h3>
-      <p>An AI-assisted code learning platform with structured lessons, practical projects, code evaluation, and containerized execution.</p>
-      <p><strong>5 courses</strong> · <strong>88 lessons</strong> · <strong>28 projects</strong><br>GitHub/ZIP submissions flow through AI evaluation and Redis-backed background analysis.</p>
-      <sub>React · Node.js · MongoDB · Redis · Docker · Gemini API</sub>
+      <h3>02 · DevLearn</h3>
+      <p><strong>PRODUCT · AI LEARNING</strong></p>
+      <p>An AI-powered coding platform with structured learning paths, hands-on projects, and a containerized code-evaluation pipeline.</p>
+      <p><strong>88 lessons built</strong></p>
+      <sub>React · Gemini API · Redis · Docker</sub><br><br>
+      <a href="https://www.manojthamke.me/#work">Project details on my portfolio ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⏱️ Distributed Job Scheduler</h3>
-      <p>Two-service job scheduling system: an API accepts validated jobs and BullMQ workers process them. PostgreSQL stores durable job data; Redis handles queueing.</p>
-      <sub>Node.js · BullMQ · Redis · PostgreSQL · MongoDB · Docker Compose</sub><br><br>
+      <h3>03 · Distributed Job Scheduler</h3>
+      <p><strong>SYSTEMS · IN PROGRESS</strong></p>
+      <p>A durable backend for queuing, retrying, and distributing background jobs across workers—built for the work that happens behind the UI.</p>
+      <sub>Node.js · Redis · PostgreSQL · Docker · BullMQ</sub><br><br>
       <a href="https://github.com/ManojThamke/distributed-job-scheduler">View repository ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐞 Bug / Issue Tracker</h3>
-      <p>Jira-style project and ticket management with Kanban views, team assignment, progress tracking, and searchable issues.</p>
-      <sub>React · Node.js · Express · MongoDB · JWT · Tailwind CSS</sub><br><br>
-      <a href="https://github.com/ManojThamke/bug-tracker">View repository ↗</a>
+      <h3>04 · Legal Document Research Assistant</h3>
+      <p><strong>AI · DOCUMENT RETRIEVAL</strong></p>
+      <p>A Python RAG prototype that indexes Supreme Court judgments, retrieves relevant passages with Qdrant, and returns document-grounded answers with page references.</p>
+      <sub>Python · Qdrant · Embeddings · OpenRouter</sub><br><br>
+      <a href="https://www.manojthamke.me/#work">Project details on my portfolio ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · MedGenix</h3>
+      <p><strong>ML · FULL-STACK PROTOTYPE</strong></p>
+      <p>A research and education prototype connecting voice-feature classification to a FastAPI service, React interface, MongoDB persistence, and generated reports.</p>
+      <p><strong>22 voice features</strong></p>
+      <sub>Python · scikit-learn · FastAPI · React · MongoDB</sub><br><br>
+      <a href="https://www.manojthamke.me/#work">Project details on my portfolio ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More work, in context</h3>
+      <p>My portfolio has the longer story behind each project, including the problem, approach, and technology choices.</p>
+      <a href="https://www.manojthamke.me/#work"><strong>Explore selected work ↗</strong></a>
     </td>
   </tr>
 </table>
 
-## 💼 Experience
+## 03 / Experience
 
-**Full Stack Developer Intern** · International Institute of SDGs & Public Policy Research (IISPPR)  
-*Jan–Apr 2026 · 568 hours · 3 projects delivered*
+### AI, Full-Stack & Trading Systems Developer · Web Helix Pvt Ltd
+*Oct 2026–Present*
 
-- Built **15+ REST APIs** for the IISPPR Academy website, including admin and coordinator CRM workflows with JWT authentication.
-- Delivered a responsive portfolio with interactive animations and a Nodemailer-powered contact form.
-- Built a research policy management backend with JWT, role-based access control, and MongoDB CRUD APIs.
+Building across AI/ML, agentic workflows, algorithmic-trading tools, and full-stack applications.
 
-## 📈 GitHub
+### Full Stack Developer Intern · IISPPR
+*Jan–Apr 2026 · 568+ hours*
+
+Delivered three production-focused projects, built 15+ REST APIs, and implemented JWT authentication and an admin/coordinator CRM workflow for IISPPR Academy.
+
+### Web Development Intern · Coreline Solutions
+*Jul 2025–Jan 2026*
+
+Built a YouTube-inspired training product with React and JavaScript, and developed Node.js REST APIs with user authentication.
+
+### WordPress Development Intern · WebHelix
+*Jun–Aug 2022*
+
+Created a complete WordPress site with custom page layouts, motion, and an e-commerce cart with payment integration.
+
+## 04 / Toolkit
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojThamke&show_icons=true&hide_border=true&bg_color=0d1117&title_color=77e2cf&icon_color=77e2cf&text_color=c9d1d9&rank_icon=github" alt="GitHub profile statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojThamke&layout=compact&hide_border=true&bg_color=0d1117&title_color=77e2cf&text_color=c9d1d9" alt="Most used languages">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,redis,postgres,docker,git,github&theme=dark" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, MongoDB, Redis, PostgreSQL, Docker, Git and GitHub">
 </p>
 
-## 🎓 Education & credentials
+<p align="center"><sub>Machine Learning · REST APIs · JWT / RBAC · Agentic Workflows · Trading Systems</sub></p>
 
-- **B.E. Information Technology** · Alamuri Ratnamala Institute of Engineering & Technology, Mumbai University · 2023–2026 · CGPA 7.98/10
-- **Diploma in Information Technology** · Vidyalankar Polytechnic, Mumbai · Final year 75.38%
-- Skillected Academy: HTML & CSS, JavaScript, Node.js & MongoDB
-- Internshala Trainings (NSDC Skill India): Programming with Python · Grade A
+## 05 / Education & certifications
+
+- **B.E. Information Technology** · Alamuri Ratnamala Institute of Engineering & Technology · Mumbai University · 2023–2026 · **CGPA 7.98**
+- **Diploma, Information Technology** · Vidyalankar Polytechnic, Mumbai · 2020–2023
+- SkillEcted: HTML & CSS, JavaScript, Node.js & MongoDB
+- Internshala / NSDC Skill India: Programming with Python · **Grade A**
+- Internshala: Programming in Python with AI · **Top performer**
+
+[View certificates ↗](https://drive.google.com/drive/folders/1CbijxLuI4Jg3UC_Gm6SWZQq502aHDCH1?usp=sharing)
 
 ---
 
 <p align="center">
-  <strong>Open to Full Stack (MERN) and Software Developer opportunities</strong><br>
-  <sub>Thanks for stopping by — feel free to explore my repositories.</sub>
+  <strong>Have a good problem? Let’s solve it.</strong><br>
+  <a href="https://www.manojthamke.me/">Visit my portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/manoj-thamke/">Connect on LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ManojThamke?tab=repositories">Browse my repositories</a>
 </p>
